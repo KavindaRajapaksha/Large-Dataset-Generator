@@ -6,7 +6,7 @@ from tqdm import tqdm
 import time
 
 # Set your GROQ API key
-GROQ_API_KEY = "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"  # Replace with your actual API key
+GROQ_API_KEY = "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"  
 
 # Define topics and aspects for the agriculture Q&A
 crops = ["rice", "tea", "coconut", "rubber", "vegetables", "fruits", "maize", "chili", "onion", 
